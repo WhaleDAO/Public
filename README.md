@@ -1,6 +1,8 @@
 # Public
 Discover the seeds and create the next whale
 
+![Github](https://cdn.jsdelivr.net/gh/Typto/bed@master/uPic/Github.png)
+
 # Introduction
 WhaleDAO is incubated by DAOSquare and is committed to helping high-quality projects around the world build their ecosystem in the Greater China region.
  
